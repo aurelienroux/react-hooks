@@ -1,0 +1,16 @@
+{
+  "version": "0.1",
+  "language": "en",
+  "words": [
+    "esnext",
+    "browserslist",
+    "noopener",
+    "noreferrer",
+    "precached",
+    "onupdatefound",
+    "onstatechange",
+    "interop",
+    "antialiased",
+    "webfonts"
+  ]
+}
